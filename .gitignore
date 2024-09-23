@@ -1,0 +1,9 @@
+# Abaikan file log
+*.log
+
+# Abaikan direktori node_modules
+node_modules/
+
+# Abaikan file dan folder build
+build/
+dist/
