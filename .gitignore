@@ -1,9 +1,10 @@
-# Abaikan file log
-*.log
-
-# Abaikan direktori node_modules
-node_modules/
-
-# Abaikan file dan folder build
-build/
-dist/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
